@@ -19,7 +19,7 @@ package com.android.systemui.navigation.smartbar;
 import android.graphics.drawable.Drawable;
 import android.view.View;
 
-import com.android.internal.utils.ActionUtils;
+import com.android.internal.util.hwkeys.ActionUtils;
 import com.android.systemui.R;
 import com.android.systemui.navigation.*;
 import com.android.systemui.navigation.smartbar.SmartBarView;

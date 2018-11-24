@@ -37,8 +37,8 @@ import com.android.systemui.plugins.statusbar.phone.NavGesture;
 import com.android.systemui.statusbar.phone.BarTransitions;
 import com.android.systemui.R;
 
-import com.android.internal.utils.ActionUtils;
-import com.android.internal.utils.ImageHelper;
+import com.android.internal.util.hwkeys.ActionUtils;
+import com.android.internal.util.hwkeys.ImageHelper;
 
 import com.facebook.rebound.Spring;
 import com.facebook.rebound.SpringSystem;

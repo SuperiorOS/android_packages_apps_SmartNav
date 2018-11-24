@@ -26,8 +26,8 @@ package com.android.systemui.navigation;
 import com.android.systemui.navigation.BaseNavigationBar;
 import com.android.systemui.navigation.Editor;
 import com.android.systemui.R;
-import com.android.internal.utils.ActionUtils;
-import com.android.internal.utils.Config.ActionConfig;
+import com.android.internal.util.hwkeys.ActionUtils;
+import com.android.internal.util.hwkeys.Config.ActionConfig;
 
 import android.app.Activity;
 import android.content.Context;

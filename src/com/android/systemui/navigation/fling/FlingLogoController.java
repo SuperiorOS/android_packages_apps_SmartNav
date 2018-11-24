@@ -34,9 +34,9 @@ import com.android.systemui.navigation.fling.FlingLogoView;
 import com.android.systemui.navigation.fling.FlingView;
 import com.android.systemui.navigation.utils.SmartObserver.SmartObservable;
 import com.android.systemui.statusbar.policy.KeyButtonDrawable;
-import com.android.internal.utils.Config.ActionConfig;
-import com.android.internal.utils.Config.ButtonConfig;
-import com.android.internal.utils.ActionUtils;
+import com.android.internal.util.hwkeys.Config.ActionConfig;
+import com.android.internal.util.hwkeys.Config.ButtonConfig;
+import com.android.internal.util.hwkeys.ActionUtils;
 
 import android.content.Context;
 import android.graphics.Bitmap;

@@ -29,7 +29,7 @@ import java.util.Set;
 
 import com.android.systemui.navigation.fling.FlingGestureDetector.OnGestureListener;
 import com.android.systemui.navigation.utils.SmartObserver.SmartObservable;
-import com.android.internal.utils.ActionUtils;
+import com.android.internal.util.hwkeys.ActionUtils;
 
 import android.content.ContentResolver;
 import android.content.Context;

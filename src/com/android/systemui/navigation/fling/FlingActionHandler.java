@@ -33,12 +33,12 @@ import java.util.Set;
 
 import com.android.systemui.navigation.fling.FlingGestureHandler.Swipeable;
 import com.android.systemui.navigation.utils.SmartObserver.SmartObservable;
-import com.android.internal.utils.ActionConstants;
-import com.android.internal.utils.ActionHandler;
-import com.android.internal.utils.Config;
-import com.android.internal.utils.ActionConstants.ConfigMap;
-import com.android.internal.utils.Config.ActionConfig;
-import com.android.internal.utils.Config.ButtonConfig;
+import com.android.internal.util.hwkeys.ActionConstants;
+import com.android.internal.util.hwkeys.ActionHandler;
+import com.android.internal.util.hwkeys.Config;
+import com.android.internal.util.hwkeys.ActionConstants.ConfigMap;
+import com.android.internal.util.hwkeys.Config.ActionConfig;
+import com.android.internal.util.hwkeys.Config.ButtonConfig;
 
 import android.content.Context;
 import android.net.Uri;

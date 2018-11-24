@@ -23,7 +23,7 @@
 
 package com.android.systemui.navigation.fling;
 
-import com.android.internal.utils.ActionUtils;
+import com.android.internal.util.hwkeys.ActionUtils;
 import com.orange.dgil.trail.android.AndroidMetrics;
 import com.orange.dgil.trail.android.animation.IAnimListener;
 import com.orange.dgil.trail.android.impl.TrailDrawer;
