@@ -11,7 +11,7 @@
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
 	    android:layout_marginTop="16dip"
-	    android:background="@color/smartbar_editor_popup_background"
+	    android:background="?android:attr/colorBackground"
 	    android:fadingEdgeLength="5dip"
 	    android:scrollbars="none" >
         
