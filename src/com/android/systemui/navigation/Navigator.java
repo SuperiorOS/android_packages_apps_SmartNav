@@ -78,6 +78,7 @@ public interface Navigator extends PluginListener<NavGesture> {
     public default void setMediaPlaying(boolean playing) {}
     public default void setNotificationPanelExpanded(boolean expanded) {}
     public default void setPulseColors(boolean colorizedMedia, int[] colors) {}
+    public default void setFullGestureMode(boolean mFullGestureMode, boolean dt2sEnabled) {}
 
     /*
      * Introduced in Pie
