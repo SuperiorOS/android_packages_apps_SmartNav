@@ -16,57 +16,64 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Bindable action labels -->
-  <string name="label_action_no_action">No action</string>
-  <string name="label_action_settings_panel">QS panel</string>
-  <string name="label_action_notification_panel">Notification panel</string>
-  <string name="label_action_screenshot">Screenshot</string>
-  <string name="label_action_screenrecord">Record screen</string>
-  <string name="label_action_expanded_desktop">Expanded desktop</string>
-  <string name="label_action_screen_off">Turn off screen</string>
-  <string name="label_action_force_close_app">Force close app</string>
-  <string name="label_action_search_assistant">Search assistant</string>
-  <string name="label_action_google_now_on_tap">Google assistant</string>
-  <string name="label_action_voice_search">Voice search</string>
-  <string name="label_action_in_app_search">In-app search</string>
-  <string name="label_action_flashlight">Flashlight</string>
-  <string name="label_action_bluetooth">Bluetooth</string>
-  <string name="label_action_wifi">WiFi</string>
-  <string name="label_action_hotspot">Hotspot</string>
-  <string name="label_action_last_app">Last app</string>
-  <string name="label_action_overview">Recents</string>
-  <string name="label_action_power_menu">Power menu</string>
-  <string name="label_action_menu">Menu</string>
-  <string name="label_action_back">Back</string>
-  <string name="label_action_home">Home</string>
-  <string name="label_action_ime_switcher">IME changer</string>
-  <string name="label_action_stop_screenpinning">Stop screen pinning</string>
-  <string name="label_action_ime_down">Input method cursor down</string>
-  <string name="label_action_ime_left">Input method cursor left</string>
-  <string name="label_action_ime_right">Input method cursor right</string>
-  <string name="label_action_ime_up">Input method cursor up</string>
-  <string name="label_action_volume_panel">Volume panel</string>
-  <string name="label_action_clear_notifications">Clear notifications</string>
-  <string name="label_action_editing_smartbar">Smartbar editor</string>
-  <string name="label_action_split_screen">Split screen</string>
-  <!-- Smartbar -->
-  <string name="label_smartbar_actions">Actions</string>
-  <string name="label_smartbar_icon">Icon</string>
-  <string name="label_smartbar_add">Add</string>
-  <string name="label_smartbar_remove">Remove</string>
-  <string name="label_smartbar_cancel">Cancel</string>
-  <string name="label_smartbar_finish">Finish</string>
-  <string name="label_smartbar_single_tap">Single tap</string>
-  <string name="label_smartbar_double_tap">Double tap</string>
-  <string name="label_smartbar_long_press">Long press</string>
-  <string name="label_smartbar_icon_pack">Icon pack</string>
-  <string name="label_smartbar_icon_gallery">Gallery</string>
-  <string name="label_smartbar_icon_color">Color</string>
-  <string name="label_smartbar_icon_reset">Reset</string>
-  <string name="smartbar_editor_toast_starting">Starting navigation editor</string>
-  <string name="smartbar_editor_toast_stopping">Stopping navigation editor</string>
-  <string name="smartbar_editor_toast_unavailable">Navigation editor unavailable</string>
-  <string name="edit_mode">Edit mode</string>
-  <!-- App killed message -->
-  <string name="app_killed_message">%s killed</string>
+    <!-- Bindable action labels -->
+    <string name="label_action_no_action">Không có hành động</string>
+    <string name="label_action_settings_panel">Bảng cài đặt nhanh</string>
+    <string name="label_action_notification_panel">Bảng thông báo</string>
+    <string name="label_action_screenshot">Chụp màn hình</string>
+    <string name="label_action_region_screenshot">Chụp một phần màn hình</string>
+    <string name="label_action_screenrecord">Ghi lại màn hình</string>
+    <string name="label_action_expanded_desktop">Mở rộng màn hình</string>
+    <string name="label_action_screen_off">Tắt màn hình</string>
+    <string name="label_action_force_close_app">Buộc dừng ứng dụng</string>
+    <string name="label_action_search_assistant">Trợ lý tìm kiếm</string>
+    <string name="label_action_google_now_on_tap">Trợ lý Google</string>
+    <string name="label_action_voice_search">Tìm kiếm bằng giọng nói</string>
+    <string name="label_action_in_app_search">Tìm kiếm trong ứng dụng</string>
+    <string name="label_action_flashlight">Đèn pin</string>
+    <string name="label_action_bluetooth">Bluetooth</string>
+    <string name="label_action_wifi">WiFi</string>
+    <string name="label_action_hotspot">Điểm phát sóng</string>
+    <string name="label_action_last_app">Ứng dụng cuối cùng</string>
+    <string name="label_action_overview">Gần đây</string>
+    <string name="label_action_power_menu">Trình đơn nguồn</string>
+    <string name="label_action_menu">Trình đơn</string>
+    <string name="label_action_back">Quay lại</string>
+    <string name="label_action_home">Trang chủ</string>
+    <string name="label_action_ime_switcher">Thay đổi IME</string>
+    <string name="label_action_stop_screenpinning">Dừng ghim màn hình</string>
+    <string name="label_action_ime_down">Phương thức nhập con trỏ xuống</string>
+    <string name="label_action_ime_left">Phương thức nhập con trỏ trái</string>
+    <string name="label_action_ime_right">Phương thức nhập con trỏ phải</string>
+    <string name="label_action_ime_up">Phương thức nhập con trỏ lên</string>
+    <string name="label_action_volume_panel">Bảng điều chỉnh âm lượng</string>
+    <string name="label_action_clear_notifications">Xóa thông báo</string>
+    <string name="label_action_editing_smartbar">Biên tập thanh thông minh</string>
+    <string name="label_action_split_screen">Chia đôi màn hình</string>
+    <string name="label_action_one_handed_mode_left">Chế độ một tay (bên trái)</string>
+    <string name="label_action_one_handed_mode_right">Chế độ một tay (bên phải)</string>
+    <string name="label_action_media_left">Bản nhạc trước</string>
+    <string name="label_action_media_right">Bản nhạc tiếp theo</string>
+    <string name="label_action_assistant_sound_search">Tìm kiếm âm thanh bằng Google</string>
+    <!-- Smartbar -->
+    <string name="label_smartbar_actions">Hành động</string>
+    <string name="label_smartbar_icon">Biểu tượng</string>
+    <string name="label_smartbar_add">Thêm</string>
+    <string name="label_smartbar_remove">Loại bỏ</string>
+    <string name="label_smartbar_cancel">Huỷ</string>
+    <string name="label_smartbar_finish">Kết thúc</string>
+    <string name="label_smartbar_single_tap">Chạm 1 lần</string>
+    <string name="label_smartbar_double_tap">Nhấn đúp</string>
+    <string name="label_smartbar_long_press">Nhấn giữ</string>
+    <string name="label_smartbar_icon_pack">Gói biểu tượng</string>
+    <string name="label_smartbar_icon_gallery">Thư viện</string>
+    <string name="label_smartbar_icon_color">Màu sắc</string>
+    <string name="label_smartbar_icon_reset">Thiết lập lại</string>
+    <string name="smartbar_editor_toast_starting">Đang bắt đầu biên tập thanh điều hướng</string>
+    <string name="smartbar_editor_toast_stopping">Đang dừng biên tập thanh điều hướng</string>
+    <string name="smartbar_editor_toast_unavailable">Biên tập thanh điều hướng không có sẵn</string>
+    <string name="edit_mode">Chế độ Chỉnh sửa</string>
+    <!-- App killed message -->
+    <string name="app_killed_message">%s đã dừng</string>
+    <!-- Pulse and media arrows blacklist -->
 </resources>
