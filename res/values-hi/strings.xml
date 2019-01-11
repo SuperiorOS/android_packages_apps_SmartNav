@@ -17,7 +17,63 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bindable action labels -->
+    <string name="label_action_no_action">कोई कार्रवाई नहीं</string>
+    <string name="label_action_settings_panel">QS पैनल</string>
+    <string name="label_action_notification_panel">सूचना पैनल</string>
+    <string name="label_action_screenshot">स्क्रीनशॉट</string>
+    <string name="label_action_region_screenshot">आंशिक स्क्रीनशॉट</string>
+    <string name="label_action_screenrecord">स्क्रीन रिकॉर्डिंग</string>
+    <string name="label_action_expanded_desktop">विस्तारित डेस्कटॉप</string>
+    <string name="label_action_screen_off">स्क्रीन बंद करे</string>
+    <string name="label_action_force_close_app">एप को बलपूर्वक बंद करें</string>
+    <string name="label_action_search_assistant">खोज सहायक</string>
+    <string name="label_action_google_now_on_tap">गूगल असिस्टेंट</string>
+    <string name="label_action_voice_search">आवाज खोज</string>
+    <string name="label_action_in_app_search">अंतः ऐप् खोज</string>
+    <string name="label_action_flashlight">टॉर्च</string>
+    <string name="label_action_bluetooth">ब्लूटूथ</string>
+    <string name="label_action_wifi">वाईफ़ाई</string>
+    <string name="label_action_hotspot">हॉटस्पॉट</string>
+    <string name="label_action_last_app">पिछ्ला ऍप</string>
+    <string name="label_action_overview">रिसेंट्स</string>
+    <string name="label_action_power_menu">पावर मेन्यू</string>
+    <string name="label_action_menu">मेन्यू</string>
+    <string name="label_action_back">वापस जाएं</string>
+    <string name="label_action_home">होम</string>
+    <string name="label_action_ime_switcher">IME परिवर्तक</string>
+    <string name="label_action_stop_screenpinning">स्क्रीन पिनिंग रोकें</string>
+    <string name="label_action_ime_down">इनपुट विधि कर्सर नीचे</string>
+    <string name="label_action_ime_left">इनपुट विधि कर्सर बाएं</string>
+    <string name="label_action_ime_right">इनपुट विधि कर्सर दाएं</string>
+    <string name="label_action_ime_up">इनपुट विधि कर्सर ऊपर</string>
+    <string name="label_action_volume_panel">ध्वनि पैनल</string>
+    <string name="label_action_clear_notifications">सूचनाएं हटाएं</string>
+    <string name="label_action_editing_smartbar">स्मार्ट बार संपादक</string>
+    <string name="label_action_split_screen">विभाजित स्क्रीन</string>
+    <string name="label_action_one_handed_mode_left">एक हाथ मोड (बाईं ओर)</string>
+    <string name="label_action_one_handed_mode_right">एक हाथ मोड (दाईं ओर)</string>
+    <string name="label_action_media_left">पिछला गाना</string>
+    <string name="label_action_media_right">अगला गाना</string>
+    <string name="label_action_assistant_sound_search">गूगल ध्वनि खोज</string>
     <!-- Smartbar -->
+    <string name="label_smartbar_actions">क्रियाएँ</string>
+    <string name="label_smartbar_icon">आइकॉन</string>
+    <string name="label_smartbar_add">जोड़ें</string>
+    <string name="label_smartbar_remove">हटाएं</string>
+    <string name="label_smartbar_cancel">रद्द करें</string>
+    <string name="label_smartbar_finish">संपन्न</string>
+    <string name="label_smartbar_single_tap">एक बार दबाए</string>
+    <string name="label_smartbar_double_tap">दोहरा टैप</string>
+    <string name="label_smartbar_long_press">लम्बा दबाएं</string>
+    <string name="label_smartbar_icon_pack">आइकॉन पैक</string>
+    <string name="label_smartbar_icon_gallery">गैलरी</string>
+    <string name="label_smartbar_icon_color">रंग</string>
+    <string name="label_smartbar_icon_reset">रीसेट करें</string>
+    <string name="smartbar_editor_toast_starting">नेविगेशन संपादक शुरू हो रहा है</string>
+    <string name="smartbar_editor_toast_stopping">नेविगेशन संपादक बंद हो रहा है</string>
+    <string name="smartbar_editor_toast_unavailable">नेविगेशन संपादक अनुपलब्ध</string>
+    <string name="edit_mode">संपादन मोड</string>
     <!-- App killed message -->
+    <string name="app_killed_message">%s बंद कर दिया</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>

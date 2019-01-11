@@ -17,7 +17,63 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bindable action labels -->
+    <string name="label_action_no_action">Brez dejanja</string>
+    <string name="label_action_settings_panel">Plošča hitrih nastavitev</string>
+    <string name="label_action_notification_panel">Plošča za obvestila</string>
+    <string name="label_action_screenshot">Posnetek zaslona</string>
+    <string name="label_action_region_screenshot">Delni posnetek zaslona</string>
+    <string name="label_action_screenrecord">Posnemi zaslon</string>
+    <string name="label_action_expanded_desktop">Razširjeno namizje</string>
+    <string name="label_action_screen_off">Izklopi zaslon</string>
+    <string name="label_action_force_close_app">Vsili zapiranje aplikacije</string>
+    <string name="label_action_search_assistant">Pomočnik za iskanje</string>
+    <string name="label_action_google_now_on_tap">Pomočnik Google</string>
+    <string name="label_action_voice_search">Glasovno iskanje</string>
+    <string name="label_action_in_app_search">Iskanje v aplikaciji</string>
+    <string name="label_action_flashlight">Svetilka</string>
+    <string name="label_action_bluetooth">Bluetooth</string>
+    <string name="label_action_wifi">Wi-Fi</string>
+    <string name="label_action_hotspot">Dostopna točka</string>
+    <string name="label_action_last_app">Zadnja aplikacija</string>
+    <string name="label_action_overview">Nedavne</string>
+    <string name="label_action_power_menu">Meni za izklop</string>
+    <string name="label_action_menu">Meni</string>
+    <string name="label_action_back">Nazaj</string>
+    <string name="label_action_home">Domov</string>
+    <string name="label_action_ime_switcher">Sprememba načina vnosa</string>
+    <string name="label_action_stop_screenpinning">Ustavi pripenjanje zaslona</string>
+    <string name="label_action_ime_down">Metoda vnosa kazalec dol</string>
+    <string name="label_action_ime_left">Metoda vnosa kazalec levo</string>
+    <string name="label_action_ime_right">Metoda vnosa kazalec desno</string>
+    <string name="label_action_ime_up">Metoda vnosa kazalec gor</string>
+    <string name="label_action_volume_panel">Plošča za glasnost</string>
+    <string name="label_action_clear_notifications">Počisti obvestila</string>
+    <string name="label_action_editing_smartbar">Smartbar urejevalnik</string>
+    <string name="label_action_split_screen">Razdeli zaslon</string>
+    <string name="label_action_one_handed_mode_left">Enoročni način (leva stran)</string>
+    <string name="label_action_one_handed_mode_right">Enoročni način (desna stran)</string>
+    <string name="label_action_media_left">Prejšnja skladba</string>
+    <string name="label_action_media_right">Naslednja skladba</string>
+    <string name="label_action_assistant_sound_search">Google glasovno iskanje</string>
     <!-- Smartbar -->
+    <string name="label_smartbar_actions">Dejanja</string>
+    <string name="label_smartbar_icon">Ikona</string>
+    <string name="label_smartbar_add">Dodaj</string>
+    <string name="label_smartbar_remove">Odstrani</string>
+    <string name="label_smartbar_cancel">Prekliči</string>
+    <string name="label_smartbar_finish">Končaj</string>
+    <string name="label_smartbar_single_tap">Enojni tap</string>
+    <string name="label_smartbar_double_tap">Dvojni tap</string>
+    <string name="label_smartbar_long_press">Dolg pritisk</string>
+    <string name="label_smartbar_icon_pack">Paket ikon</string>
+    <string name="label_smartbar_icon_gallery">Galerija</string>
+    <string name="label_smartbar_icon_color">Barva</string>
+    <string name="label_smartbar_icon_reset">Ponastavi</string>
+    <string name="smartbar_editor_toast_starting">Zaganjanje urejevalnika krmarjenja</string>
+    <string name="smartbar_editor_toast_stopping">Ustavljanje urejevalnika krmarjenja</string>
+    <string name="smartbar_editor_toast_unavailable">Urejevalnik krmarjenja ni na voljo</string>
+    <string name="edit_mode">Način urejanja</string>
     <!-- App killed message -->
+    <string name="app_killed_message">%s uničen</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>

@@ -17,7 +17,63 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bindable action labels -->
+    <string name="label_action_no_action">Καμία ενέργεια</string>
+    <string name="label_action_settings_panel">Πάνελ ρυθμίσεων</string>
+    <string name="label_action_notification_panel">Πίνακας ειδοποιήσεων</string>
+    <string name="label_action_screenshot">Στιγμιότυπο οθόνης</string>
+    <string name="label_action_region_screenshot">Μερικό στιγμιότυπο οθόνης</string>
+    <string name="label_action_screenrecord">Εγγραφή οθόνης</string>
+    <string name="label_action_expanded_desktop">Εκτεταμένη επιφάνεια εργασίας</string>
+    <string name="label_action_screen_off">Απενεργοποίηση οθόνης</string>
+    <string name="label_action_force_close_app">Αναγκαστικό κλείσιμο εφαρμογής</string>
+    <string name="label_action_search_assistant">Βοηθός αναζήτησης</string>
+    <string name="label_action_google_now_on_tap">Βοηθός Google</string>
+    <string name="label_action_voice_search">Φωνητική αναζήτηση</string>
+    <string name="label_action_in_app_search">Αναζήτηση εντός της εφαρμογής</string>
+    <string name="label_action_flashlight">Φακός</string>
+    <string name="label_action_bluetooth">Bluetooth</string>
+    <string name="label_action_wifi">WiFi</string>
+    <string name="label_action_hotspot">Σημείο πρόσβασης</string>
+    <string name="label_action_last_app">Τελευταία εφαρμογή</string>
+    <string name="label_action_overview">Πρόσφατα</string>
+    <string name="label_action_power_menu">Μενού απενεργοποίησης</string>
+    <string name="label_action_menu">Μενού</string>
+    <string name="label_action_back">Πίσω</string>
+    <string name="label_action_home">Αρχική οθόνη</string>
+    <string name="label_action_ime_switcher">Αλλαγή IME</string>
+    <string name="label_action_stop_screenpinning">Σταμάτημα καρφιτσώματος οθόνης</string>
+    <string name="label_action_ime_down">Μέθοδος εισαγωγής δρομέα κάτω</string>
+    <string name="label_action_ime_left">Δρομέας μεθόδου εισαγωγής αριστερά</string>
+    <string name="label_action_ime_right">Μέθοδος εισαγωγής δρομέα δεξιά</string>
+    <string name="label_action_ime_up">Δρομέας μεθόδου εισαγωγής πάνω</string>
+    <string name="label_action_volume_panel">Πίνακας έντασης</string>
+    <string name="label_action_clear_notifications">Εκκαθάριση ειδοποιήσεων</string>
+    <string name="label_action_editing_smartbar">Επεξεργαστής έξυπνης μπάρας</string>
+    <string name="label_action_split_screen">Διαχωρισμός οθόνης</string>
+    <string name="label_action_one_handed_mode_left">Λειτουργία ενός χεριού (αριστερή μεριά)</string>
+    <string name="label_action_one_handed_mode_right">Λειτουργία ενός χεριού (δεξιά μεριά)</string>
+    <string name="label_action_media_left">Προηγούμενο κομμάτι</string>
+    <string name="label_action_media_right">Επόμενο κομμάτι</string>
+    <string name="label_action_assistant_sound_search">Αναζήτηση ήχου Google</string>
     <!-- Smartbar -->
+    <string name="label_smartbar_actions">Ενέργειες</string>
+    <string name="label_smartbar_icon">Εικονίδιο</string>
+    <string name="label_smartbar_add">Προσθήκη</string>
+    <string name="label_smartbar_remove">Αφαίρεση</string>
+    <string name="label_smartbar_cancel">Ακύρωση</string>
+    <string name="label_smartbar_finish">Ολοκλήρωση</string>
+    <string name="label_smartbar_single_tap">Μονό χτύπημα</string>
+    <string name="label_smartbar_double_tap">Διπλό χτύπημα</string>
+    <string name="label_smartbar_long_press">Παρατεταμένο πάτημα</string>
+    <string name="label_smartbar_icon_pack">Πακέτο εικονιδίων</string>
+    <string name="label_smartbar_icon_gallery">Συλλογή</string>
+    <string name="label_smartbar_icon_color">Χρώμα</string>
+    <string name="label_smartbar_icon_reset">Επαναφορά</string>
+    <string name="smartbar_editor_toast_starting">Έναρξη επεξεργαστή πλοήγησης</string>
+    <string name="smartbar_editor_toast_stopping">Διακοπή επεξεργαστή πλοήγησης</string>
+    <string name="smartbar_editor_toast_unavailable">Ο επεξεργαστής πλοήγησης δεν είναι διαθέσιμος</string>
+    <string name="edit_mode">Λειτουργία επεξεργασίας</string>
     <!-- App killed message -->
+    <string name="app_killed_message">%s τερματίστηκαν</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>
