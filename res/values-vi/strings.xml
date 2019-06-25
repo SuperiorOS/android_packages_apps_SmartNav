@@ -51,29 +51,29 @@
     <string name="label_action_editing_smartbar">Biên tập thanh thông minh</string>
     <string name="label_action_split_screen">Chia màn hình</string>
     <string name="label_action_one_handed_mode_left">Chế độ một tay (bên trái)</string>
-    <string name="label_action_one_handed_mode_right">One handed mode (right side)</string>
-    <string name="label_action_media_left">Previous track</string>
-    <string name="label_action_media_right">Next track</string>
-    <string name="label_action_assistant_sound_search">Google sound search</string>
+    <string name="label_action_one_handed_mode_right">Chế độ một tay (bên phải)</string>
+    <string name="label_action_media_left">Bài hát trước đó</string>
+    <string name="label_action_media_right">Bản nhạc tiếp theo</string>
+    <string name="label_action_assistant_sound_search">Tìm kiếm âm thanh bằng Google</string>
     <!-- Smartbar -->
-    <string name="label_smartbar_actions">Actions</string>
-    <string name="label_smartbar_icon">Icon</string>
-    <string name="label_smartbar_add">Add</string>
-    <string name="label_smartbar_remove">Remove</string>
-    <string name="label_smartbar_cancel">Cancel</string>
-    <string name="label_smartbar_finish">Finish</string>
-    <string name="label_smartbar_single_tap">Single tap</string>
-    <string name="label_smartbar_double_tap">Double tap</string>
-    <string name="label_smartbar_long_press">Long press</string>
-    <string name="label_smartbar_icon_pack">Icon pack</string>
-    <string name="label_smartbar_icon_gallery">Gallery</string>
-    <string name="label_smartbar_icon_color">Color</string>
-    <string name="label_smartbar_icon_reset">Reset</string>
-    <string name="smartbar_editor_toast_starting">Starting navigation editor</string>
-    <string name="smartbar_editor_toast_stopping">Stopping navigation editor</string>
-    <string name="smartbar_editor_toast_unavailable">Navigation editor unavailable</string>
-    <string name="edit_mode">Edit mode</string>
+    <string name="label_smartbar_actions">Các thao tác</string>
+    <string name="label_smartbar_icon">Biểu tượng</string>
+    <string name="label_smartbar_add">Thêm</string>
+    <string name="label_smartbar_remove">Xóa bỏ</string>
+    <string name="label_smartbar_cancel">Huỷ</string>
+    <string name="label_smartbar_finish">Kết thúc</string>
+    <string name="label_smartbar_single_tap">Chạm 1 lần</string>
+    <string name="label_smartbar_double_tap">Chạm 2 lần</string>
+    <string name="label_smartbar_long_press">Bấm giữ</string>
+    <string name="label_smartbar_icon_pack">Gói biểu tượng</string>
+    <string name="label_smartbar_icon_gallery">Thư viện ảnh</string>
+    <string name="label_smartbar_icon_color">Màu sắc</string>
+    <string name="label_smartbar_icon_reset">Thiết lập lại</string>
+    <string name="smartbar_editor_toast_starting">Đang bắt đầu chỉnh sửa thanh điều hướng</string>
+    <string name="smartbar_editor_toast_stopping">Đang dừng chỉnh sửa thanh điều hướng</string>
+    <string name="smartbar_editor_toast_unavailable">Chỉnh sửa thanh điều hướng không có sẵn</string>
+    <string name="edit_mode">Chế độ chỉnh sửa</string>
     <!-- App killed message -->
-    <string name="app_killed_message">%s killed</string>
+    <string name="app_killed_message">%s đã dừng</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>
