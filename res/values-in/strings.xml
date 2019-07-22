@@ -17,16 +17,6 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bindable action labels -->
-    <string name="label_action_no_action">Tidak ada tindakan</string>
-    <string name="label_action_settings_panel">Panel QS</string>
-    <string name="label_action_notification_panel">Panel notifikasi</string>
-    <string name="label_action_screenshot">Tangkapan layar</string>
-    <string name="label_action_region_screenshot">Tangkapan layar parsial</string>
-    <string name="label_action_screenrecord">Rekam layar</string>
-    <string name="label_action_expanded_desktop">Perluas desktop</string>
-    <string name="label_action_screen_off">Matikan layar</string>
-    <string name="label_action_force_close_app">Tutup paksa aplikasi</string>
-    <string name="label_action_search_assistant">Asisten Pencarian</string>
     <!-- Smartbar -->
     <!-- App killed message -->
     <!-- Pulse and media arrows blacklist -->

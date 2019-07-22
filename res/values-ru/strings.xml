@@ -23,7 +23,7 @@
     <string name="label_action_screenshot">Скриншот</string>
     <string name="label_action_region_screenshot">Скриншот выбранной области экрана</string>
     <string name="label_action_screenrecord">Запись экрана</string>
-    <string name="label_action_expanded_desktop">Расширенный рабочий стол</string>
+    <string name="label_action_expanded_desktop">Расширенный экран</string>
     <string name="label_action_screen_off">Выключить экран</string>
     <string name="label_action_force_close_app">Принудительно закрыть приложение</string>
     <string name="label_action_search_assistant">Поисковый помощник</string>
