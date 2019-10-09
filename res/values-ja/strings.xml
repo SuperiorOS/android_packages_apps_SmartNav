@@ -48,7 +48,7 @@
     <string name="label_action_ime_up">カーソル上移動</string>
     <string name="label_action_volume_panel">音量パネル</string>
     <string name="label_action_clear_notifications">通知を消去</string>
-    <string name="label_action_editing_smartbar">スマートバーエディター</string>
+    <string name="label_action_editing_smartbar">Smartbar エディター</string>
     <string name="label_action_split_screen">画面分割</string>
     <string name="label_action_one_handed_mode_left">片手モード (左寄り)</string>
     <string name="label_action_one_handed_mode_right">片手モード (右寄り)</string>
